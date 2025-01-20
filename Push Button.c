@@ -1,5 +1,3 @@
-# Embedded_Systems
-
 /*
  * LED Blink.c
  *
